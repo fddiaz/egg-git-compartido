@@ -6,3 +6,12 @@
 body {
     background-color: rgb(255, 0, 0);
 }
+
+p {
+    background-color: black;
+    color: white;
+}
+
+h2 {
+    color: rgb(105, 245, 105);
+}
